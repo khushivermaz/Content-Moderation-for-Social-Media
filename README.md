@@ -8,7 +8,7 @@ By filtering out inappropriate, violent, and pornographic images, digital platfo
 
 Our project focuses on providing a content moderation solution for social media. The aim is to classify social media images into three categories: violence, nsfw, and normal.
 
-## About The Data
+## About The Data  
 We identified three key image datasets that we believe will be beneficial in modeling our content moderation problem. These datasets are:
 
 ### NSFW Images Data
